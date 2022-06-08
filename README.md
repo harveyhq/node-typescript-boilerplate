@@ -24,6 +24,8 @@
 
 🤲 Free as in speech: available under the APLv2 license.
 
+## Fork Info: Node 12 support
+
 ## Getting Started
 
 This project is intended to be used with the latest Active LTS release of [Node.js][nodejs].
