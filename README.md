@@ -1,4 +1,4 @@
-# node-typescript-boilerplate
+# node12-typescript-boilerplate
 
 [![Sponsor][sponsor-badge]][sponsor]
 [![TypeScript version][ts-badge]][typescript-4-7]
@@ -24,7 +24,7 @@
 
 🤲 Free as in speech: available under the APLv2 license.
 
-## Fork Info: Node 12 support
+## Fork Info: Node 12 Support
 
 ## Getting Started
 
